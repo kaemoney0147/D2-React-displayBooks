@@ -11,6 +11,7 @@ function App() {
     <div className="App">
       <NavBar bookTitle='KAE BOOKSHOP'/>
       <JumbotronComp/>
+
       <Cards bookSubTitle='Lastest Release History Books'/>
       <Footer/>
     </div>

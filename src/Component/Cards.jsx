@@ -11,7 +11,7 @@ class Cards extends Component {
             <Container>
                 <Row>
                     <Col sm={12}>
-                        <h3 className='text-center mb-3'>{this.props.bookSubTitle}</h3>
+                        <h3 className='cardh3 mb-3'>{this.props.bookSubTitle}</h3>
                     </Col>
                     <Col sm={12}>
                         <Row>

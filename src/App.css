@@ -1,5 +1,7 @@
+
 .App {
   text-align: center;
+  background-color: #282c34;
 }
 
 .App-logo {
@@ -67,4 +69,7 @@ object-fit: cover;
 }
 .cardText{
   font-weight: bold;
+}
+.cardh3{
+  color: white;
 }
