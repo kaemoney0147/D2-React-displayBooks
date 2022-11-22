@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+#footesfluid{
+  height: 180px;
+}
+.footer li{
+ color: white;
+  list-style: none;
+}
+.copyright{
+  text-align: center;
+  color:wheat;
+}
+.jumbotron{
+  background-image: url(/public/istockphoto-1097811822-612x612.jpeg);
+  color: wheat;
+  object-fit: cover;
+}
+#jumbotronbutton{
+ background-color: red;
+}
+.card img{
+width: 100%;
+height: 200px;
+object-fit: cover;
+}
+.cardtitle{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.cardText{
+  font-weight: bold;
+}
